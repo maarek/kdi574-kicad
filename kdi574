@@ -1,0 +1,45 @@
+Source,/home/jeremy/Documents/circuits/kicad/kdi574/kdi574.sch
+Kicad Rev,Eeschema 5.1.5
+Generated Date,Wed May 20 17:18:30 2020
+
+Title,KDI-573
+Company,Not Set
+Revision,v01
+Date Issue,2020-05-15
+Comment,creativecommons.org/licenses/by/4.0/
+Comment,License: CC BY 4.0
+Comment,Author: Jeremy Lyman
+
+Reference,Value,Category,DK_Datasheet_Link,DK_Detail_Page,Description,Digi-Key_PN,Family,MPN,Manufacturer,Status,Library,Library Ref
+J1,RJ12,Connector,RJ12
+DS3,2281AX,kdi574,2281AX
+DS2,2381AX,kdi574,2381AX
+DS1,2381AX,kdi574,2381AX
+U1,MAX7219,Driver_LED,MAX7219
+R2,10k,Device,R_US
+R1,10k,Device,R_US
+R3,200,Device,R_US
+R4,200,Device,R_US
+R5,200,Device,R_US
+R6,200,Device,R_US
+R7,200,Device,R_US
+R8,200,Device,R_US
+D4,RED,Device,LED
+D6,RED,Device,LED
+D5,RED,Device,LED
+C1,10uF,Device,CP1
+C2,0.1uF,Device,C
+U2,ATtiny1634-SU,MCU_Microchip_ATtiny,ATtiny1634-SU
+J2,Conn_ISP,Connector_Generic,Conn_02x03_Top_Bottom
+D2,RED,Device,LED
+D1,RED,Device,LED
+D3,RED,Device,LED
+Q1,2N2222A,Discrete Semiconductor Products,https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF,/product-detail/en/central-semiconductor-corp/2N2222A/2N2222ACS-ND/4806845,TRANS NPN 40V 0.8A TO-18,2N2222ACS-ND,Transistors - Bipolar (BJT) - Single,2N2222A,Central Semiconductor Corp,Active,dk_Transistors-Bipolar-BJT-Single,2N2222A
+R10,200,Device,R_US
+D7,RED,Device,LED
+D8,RED,Device,LED
+D9,RED,Device,LED
+R11,200,Device,R_US
+R12,200,Device,R_US
+R9,10k,Device,R_US
+J3,Conn_Switch,Connector_Generic,Conn_02x03_Counter_Clockwise
